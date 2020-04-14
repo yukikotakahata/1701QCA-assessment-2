@@ -3,7 +3,7 @@
 You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects. The comments in italics throughout the template give suggestions about what to include. Feel free to delete those instructions when you have completed the sections.
 
 ## Project working title ##
-*Insert the name of the project you chose to replicate.*
+*Insert a name for the project as you conceive of it at the moment.*
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
@@ -20,7 +20,7 @@ This project is related to mine because *insert reasons here*.
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
-### [Brief resource name/description] ###
+### *Brief resource name/description* ###
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 
@@ -53,10 +53,11 @@ b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, m
 Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
+
 ![Image](missingimage.png)
 
 ## Design process discussion ##
-* Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
