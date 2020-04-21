@@ -84,9 +84,10 @@ Gym ball plays music and rhythm which synthesize with your movement!
  ### Design concept 3/ Chasing car ###
 people wearing the microbit on his foot. The microbit car is chasing him, and the music changes in dramatic way depend on the distance between them.
 
- ![Image](concept2.png)
+ ![Image](concept3.png)
 
 ### Final design concept ###
+
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
 ### Interaction flowchart ###
