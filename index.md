@@ -10,17 +10,50 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
-### Bop it ###
+### 1.Bop it ###
 *https://youtu.be/ayBmsWKqdnc*
 
 
-![Image](missingimage.png)
+![Image](bopit1.png)
+![Image](bopit3.png)
+![Image](bopit2.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because my project is "musical instrument which react to physical movement". "Bop it" is a classic interactive party toy. All new Bop It calls out commands, the player reacts fast.  It is a game in which sound and body movements linked closely. 
+ex;
+"Bop It!" becomes the sound of a bass drum.
+"Spin It!" becomes the sound of a wobbling wheel.
+"Flick It!" becomes a "Boing!" sound.
+"Pull It!" becomes the sound of a slide-whistle.
+"Twist It!" becomes a cranking sound.
+"Shout It!" becomes a DJ's scratching sound.
 
-## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+### 2.Gym ball cover sewing project ###
+![Image](ballcover1.png)
+![Image](ballcover2.png)
+This project is related to mine because this gave me the idea of fabrication. Initially, it seemed impossible to attach the microbit device on the gym ball. After this finding, it is worth giving it a try with a project.
+*https://www.newlittlelife.com/2016/03/12/diy-birth-ball-cover/*
 
+### 3.Failylight ballon ###
+![Image](failylight.png)
+This project is related to mine because lighten up the ball is another feature. This product is a general consumer product and, pretty popular.
+
+### 4.LED bouncie  ###
+*https://www.instructables.com/id/LED-Bouncie/*
+![Image](bouncie.png)
+This project is related to mine because, if the light turns on accordant with the ball's movement is perfect.
+
+### 5.Shader-based Physical Modelling Synthesis ###
+ *http://www.nime.org/proceedings/2017/nime2017_paper0028.pdf*
+ ![Image](pms.png)
+ This project is very similar to my conceptual design1. However, it is very structured and developed with modern technologies.
+ 
+ ### 6.Device orchestra ###
+ *https://youtu.be/8jDROj236R4*
+ ![Image](device orchestra1.png)
+ ![Image](device orchestra2.png)
+ This project achieved fun of interactive technologies and music. It is amusing to watch.
+ 
+ 
 ### *Brief resource name/description* ###
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
@@ -30,13 +63,28 @@ This project is related to mine because *insert reasons here*.
 ### Design intent ###
 *Include your design intent here. It should be about a 10 word phrase/sentence.*
 
-### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+### Design concept 1 /Experiment with the relations of SOUNDS & MATERIAL ###
 
-### Design concept 2 ###
-*Put details here.*
+
+Experiment on how humans react when abnormally occurs in the relations between senses of touching , hearing and sight.
+
+When you touch gravel> it sounds you knock the  wood.
+When you touch the sand> it sounds you mix the gravels. etc.. 
+
+ ![Image](concept1.png)
+
+
+### Design concept 2 /Musical Gym ball ###
+
+Gym ball plays music and rhythm which synthesize with your movement!
+
+ ![Image](concept2.png)
+ 
+ ### Design concept 3/ Chasing car ###
+people wearing the microbit on his foot. The microbit car is chasing him, and the music changes in dramatic way depend on the distance between them.
+
+ ![Image](concept2.png)
 
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
