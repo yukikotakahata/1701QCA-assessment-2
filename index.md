@@ -52,11 +52,7 @@ This project is related to mine because, if the light turns on accordant with th
  ![Image](device orchestra1.png)
  ![Image](device orchestra2.png)
  This project achieved fun of interactive technologies and music. It is amusing to watch.
- 
- 
-### *Brief resource name/description* ###
 
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 
 ## Conceptual progress ##
 
@@ -65,7 +61,6 @@ This project is related to mine because, if the light turns on accordant with th
 
 
 ### Design concept 1 /Experiment with the relations of SOUNDS & MATERIAL ###
-
 
 Experiment on how humans react when abnormally occurs in the relations between senses of touching , hearing and sight.
 
@@ -86,14 +81,17 @@ people wearing the microbit on his foot. The microbit car is chasing him, and th
 
  ![Image](concept3.png)
 
-### Final design concept ###
+### Final design concept/ Playng a sound Gym ball ###
 
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+I wonder if everybody has a gym-ball that he bought for exercise and was left alone. As a "sometimes used chair" in one corner of the room...
+This is a tool that transforms such a gym-ball into a ball for fun. This ball plays a music scale, according to the movement of the body.
+In order not to limit the movement itself, the aim was to make the loading as simple as possible. Moreover, I would like to make full use of the aesthetic humor of the large gym ball itself—the material of the cover something special that stimulates the texture.
 
 ### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
+The music is made by mainly using the setting of the accelerator sensor of Microbit. Acceleration x (horizontal movement) senses the scale, acceleration y (vertical movement) senses BPM, that is, the speed of sound.
 
-![Image](missingimage.png)
+![Image](flow.png)![Image](pitch.png)![Image](noteconcept2.png)
+
 
 ## Physical experimentation documentation ##
 
