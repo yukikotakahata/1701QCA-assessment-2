@@ -129,15 +129,29 @@ I tried to set up "acceralation y " as BPM.
 ![Image](trial3_1.png) 
 ![Image](notedesign1.png)
 ![Image](notedesign2.png)
-his stage is all about the fabrication. I designed the container which could hold the parts( terminal board, battery, microbit, stereo speakers, and cables) firmly in the box. These were set up nicely in the box( bit busy though), And I  covered up the ball with my old Tshirt, squeezed the container between the Tshirt and the gym ball. ! it worked! However, the problem was that sound was just too small.. it was not fun at all!
+This stage is trial for the fabrication. I designed the container which could hold the parts( terminal board, battery, microbit, stereo speakers, and cables) firmly in the box. These were set up nicely in the box( bit busy though), And I  covered up the ball with my old Tshirt, squeezed the container between the Tshirt and the gym ball. ! it worked! However, the problem was that sound was just too small.. it was not fun at all!
 ![Image](trial3_4.png) 
 ![Image](trial3_5.png) 
 ![Image](trial3_6.png) 
 ![Image](trial3_3.png) 
 ![Image](trial3_2.png) 
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
-![Image](missingimage.png)
+### Trial 4 ###
+
+Sewing
+This stage is the brushing up the fablication and coding. 
+
+I saw the cover with sewing machine. 
+![Image](trial4_1.png) 
+![Image](trial4_2.png) 
+![Image](trial4_3.png) 
+![Image](trial4_4.png) 
+![Image](trial4_5.png) 
+
+Coding
+
+I 
+
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
