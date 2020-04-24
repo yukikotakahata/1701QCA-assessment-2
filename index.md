@@ -1,7 +1,5 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
-
-
-**# Playng a sound Gym ball  #**
+# Playng a sound Gym ball#
 
 ## Related projects ##
 
@@ -13,7 +11,7 @@
 ![Image](bopit3.png)
 ![Image](bopit2.png)
 </br>
-[How to play Bop it] *https://youtu.be/ayBmsWKqdnc*
+[How to play Bop it] *https://youtu.be/ayBmsWKqdnc*</br>
 *This project is related to mine because my project is "musical instrument which react to physical movement". "Bop it" is a classic interactive party toy. All new Bop It calls out commands, the player reacts fast.  It is a game in which sound and body movements linked closely. 
 ex;
 "Bop It!" becomes the sound of a bass drum.
@@ -26,32 +24,35 @@ ex;
 ### 2.Gym ball cover sewing project ###
 
 ![Image](ballcover1.png)
-![Image](ballcover2.png)
-*This project is related to mine because this gave me the idea of fabrication. Initially, it seemed impossible to attach the microbit device on the gym ball. After this finding, it became  worth giving it a try with a project.*
+</br>
+*This project is related to mine because this gave me the idea of fabrication. Initially, it seemed impossible to attach the microbit device on the gym ball. After this finding, it became  worth giving it a try with a project.*</br>
 [How to make yoga ball cover]  https://www.newlittlelife.com/2016/03/12/diy-birth-ball-cover/
 </br>
+
 ### 3.Failylight ballon ###
 
 ![Image](failylight.png)
-  This project is related to mine because lighten up the ball is another feature. This product is a general consumer product and, pretty popular.
 </br>
+This project is related to mine because lighten up the ball is another feature. This product is a general consumer product and, pretty popular.
 ### 4.LED bouncie  ###
 ![Image](bouncie.png)
-  This project is related to mine because, if the light turns on accordant with the ball's movement is perfect.</br>
+</br>
+ This project is related to mine because, if the light turns on accordant with the ball's movement is perfect.
+  </br>
 [how to make bouncy ball] *https://www.instructables.com/id/LED-Bouncie/*
 </br>
 
 ### 5.Shader-based Physical Modelling Synthesis ###
-
- [link to the artickle]*http://www.nime.org/proceedings/2017/nime2017_paper0028.pdf*</br>
  ![Image](pms.png)
+ </br>
    *This project is very similar to my conceptual design1. However, it is very structured and developed with modern technologies.*
+    [link to the artickle]*http://www.nime.org/proceedings/2017/nime2017_paper0028.pdf*</br>
 </br> 
 ### 6.Device orchestra ###
-</br> 
- [divice orchestra]*https://youtu.be/8jDROj236R4*</br>
+
  ![Image](do1.png)
  ![Image](do2.png)
+  [divice orchestra]*https://youtu.be/8jDROj236R4*</br>
   *This project achieved fun of interactive technologies and music. It is amusing to watch.*
 
 </br>
@@ -82,6 +83,7 @@ people wearing the microbit on his foot. The microbit car is chasing him, and th
 
  ![Image](p3.png)</br>
 </br></br>
+
 ### Final design concept/ Playng a sound Gym ball ###</br></br>
 
 I wonder if everybody has a gym-ball that he bought for exercise and was left alone. As a "sometimes used chair" in one corner of the room...
