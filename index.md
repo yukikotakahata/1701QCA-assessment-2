@@ -8,7 +8,7 @@
 
 
 ### 1.Bop it ###
-</br>
+
 ![Image](bopit1.png)
 ![Image](bopit3.png)
 ![Image](bopit2.png)
