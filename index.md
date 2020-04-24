@@ -1,5 +1,5 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
-# Playng a sound Gym ball#
+# Playng a sound Gym ball
 
 ## Related projects ##
 
@@ -55,13 +55,12 @@ This project is related to mine because lighten up the ball is another feature. 
   [divice orchestra]*https://youtu.be/8jDROj236R4*</br>
   *This project achieved fun of interactive technologies and music. It is amusing to watch.*
 
-</br>
-## Conceptual progress ##
-</br>
+# Conceptual progress #
+
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+The gym ball makes your daily exercise more fun!
 </br>
-### Design concept 1 /Experiment with the relations of SOUNDS & MATERIAL ###
+## Design concept 1 /Experiment with the relations of SOUNDS & MATERIAL ##
 </br>
 Experiment on how humans react when abnormally occurs in the relations between senses of touching , hearing and sight.
 Embark the sense of wonder which we normally don't care.</br>
@@ -84,7 +83,7 @@ people wearing the microbit on his foot. The microbit car is chasing him, and th
  ![Image](p3.png)</br>
 </br></br>
 
-### Final design concept/ Playng a sound Gym ball ###</br></br>
+### Final design concept/ Playng a sound Gym ball ###</br>
 
 I wonder if everybody has a gym-ball that he bought for exercise and was left alone. As a "sometimes used chair" in one corner of the room...
 This is a tool that transforms such a gym-ball into a ball for fun. This ball plays a music scale, according to the movement of the body.
@@ -129,29 +128,34 @@ I tried to set up "acceralation y " as BPM.</br>
 
 
 ### Trial 3 ###
+
+This stage is trial for the fabrication. I designed the container which could hold the parts( terminal board, battery, microbit, stereo speakers, and cables) firmly in the box. These were set up nicely in the box( bit busy though), 
 ![Image](trial3_7.png)
 ![Image](trial3_1.png) 
 ![Image](notedesign1.png)
-![Image](notedesign2.png)</br>
-This stage is trial for the fabrication. I designed the container which could hold the parts( terminal board, battery, microbit, stereo speakers, and cables) firmly in the box. These were set up nicely in the box( bit busy though), And I  covered up the ball with my old Tshirt, squeezed the container between the Tshirt and the gym ball. ! it worked! However, the problem was that sound was just too small.. it was not fun at all!</br>
-https://youtu.be/lQGHr2OlBq8
-![Image](trial3_4.png) 
+![Image](notedesign2.png)
 ![Image](trial3_5.png) 
-![Image](trial3_6.png) 
+![Image](trial3_6.png) </br>
+
+And I  covered up the ball with my old Tshirt, squeezed the container between the Tshirt and the gym ball. ! it worked! However, the problem was that sound was just too small.. it was not fun at all!</br>
+
 ![Image](trial3_3.png) 
-![Image](trial3_2.png) 
+![Image](trial3_2.png) </br>
+
+[trial 3 video] https://youtu.be/lQGHr2OlBq8</br>
 
 ### Trial 4 ###
 
 *Sewing
 This stage is the brushing up the fablication and coding. 
 
-I saw the cover with sewing machine.</br>
+I saw the cover with sewing machine.
+</br>
 ![Image](trial4_1.png) 
 ![Image](trial4_2.png) 
 ![Image](trial4_3.png) 
 ![Image](trial4_4.png) 
-![Image](trial4_5.png) </br>
+![Image](trial4_5.png)
 
 Then, in order to try the LED would work with or not, I tested with fairly light.
 It worked well with the direct connection with aligator pin with microbit.</br>
@@ -173,12 +177,24 @@ Then the following is the final code for this prototype. </br>
 ![Image](final2.png) 
 
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+*DISCOVER:
+The initial stage, I tried to figure out what I could achieve to the maximum in this COVID19 situation; luck or materials and parts, limited chance to ask onsite technical help. Therefore, as a start,  I decided to explore the material and something "interesting " in the house.
+And I checked out several online shops to check out the stock and delivery time range. In general, they do "next business day delivery", however, now it was going to take around 10 days. I found out the timeline and preparation are essential. 
+
+DEFINE:
+As the conversation with the teacher, classmate, and tutor through the discussion board and the online class. Then, I conducted researching more further on their feedbacks. This process hugely contributed to decision making.
+
+DEVELOP
+Once I decided on the product., I conducted researching material, coding, electrical circuit development, etc. The most disappointing thing is that I have minimal knowledge of electronics and coding. I wish I could have more time to learn these basics. 
+
+DELIVER
+I did four trials so far. Throughout the trials, I always find the improvement points. The product is brushed up little by little.  I have been back and forth, endlessly  "Develop"  and "Deliver" stages.*
 
 ## Next steps ##
 
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
--Explore and Reserch about the how to make "bouncy ball"
--Explore and Reserch about "Neopixel"
--Establish the switch"
--Make Microbit container smaller , thinner and lighter. My goal is the container could tack in the pocket of the cover.
+1.Explore and Reserch about the how to make "bouncy ball"
+2.Explore and Reserch about "Neopixel"
+3.Establish the switch sytem
+4.Make Microbit container smaller , thinner and lighter. My goal is the container could tack in the pocket of the cover.
+5.Get the unique material for the cover.
+6. Estblish more loud soundsystem with "MONK MAKES Speaker"
