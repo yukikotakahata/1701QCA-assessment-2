@@ -23,35 +23,35 @@ ex;
 "Shout It!" becomes a DJ's scratching sound.*
 </br>
 ### 2.Gym ball cover sewing project ###
-</br>
+
 ![Image](ballcover1.png)
-![Image](ballcover2.png)</br>
+![Image](ballcover2.png)
 *This project is related to mine because this gave me the idea of fabrication. Initially, it seemed impossible to attach the microbit device on the gym ball. After this finding, it became  worth giving it a try with a project.*
 [How to make yoga ball cover]  https://www.newlittlelife.com/2016/03/12/diy-birth-ball-cover/
 </br>
 ### 3.Failylight ballon ###
-</br>
-![Image](failylight.png)</br>
+
+![Image](failylight.png)
   This project is related to mine because lighten up the ball is another feature. This product is a general consumer product and, pretty popular.
 </br>
 ### 4.LED bouncie  ###
-</br>
-![Image](bouncie.png)</br>
+![Image](bouncie.png)
   This project is related to mine because, if the light turns on accordant with the ball's movement is perfect.</br>
-[how to make bouncy ball] *https://www.instructables.com/id/LED-Bouncie/*</br>
+[how to make bouncy ball] *https://www.instructables.com/id/LED-Bouncie/*
 </br>
+
 ### 5.Shader-based Physical Modelling Synthesis ###
-</br>
+
  [link to the artickle]*http://www.nime.org/proceedings/2017/nime2017_paper0028.pdf*</br>
- ![Image](pms.png)</br>
-   This project is very similar to my conceptual design1. However, it is very structured and developed with modern technologies.
+ ![Image](pms.png)
+   *This project is very similar to my conceptual design1. However, it is very structured and developed with modern technologies.*
 </br> 
 ### 6.Device orchestra ###
 </br> 
  [divice orchestra]*https://youtu.be/8jDROj236R4*</br>
  ![Image](do1.png)
- ![Image](do2.png)</br>
-   This project achieved fun of interactive technologies and music. It is amusing to watch.
+ ![Image](do2.png)
+  *This project achieved fun of interactive technologies and music. It is amusing to watch.*
 
 </br>
 ## Conceptual progress ##
