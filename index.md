@@ -12,6 +12,7 @@
 ![Image](bopit1.png)
 ![Image](bopit3.png)
 ![Image](bopit2.png)
+</br>
 [How to play Bop it] *https://youtu.be/ayBmsWKqdnc*
 *This project is related to mine because my project is "musical instrument which react to physical movement". "Bop it" is a classic interactive party toy. All new Bop It calls out commands, the player reacts fast.  It is a game in which sound and body movements linked closely. 
 ex;
