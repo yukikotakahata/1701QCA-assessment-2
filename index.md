@@ -28,27 +28,27 @@ ex;
 ![Image](ballcover1.png)
 ![Image](ballcover2.png)
 *This project is related to mine because this gave me the idea of fabrication. Initially, it seemed impossible to attach the microbit device on the gym ball. After this finding, it is worth giving it a try with a project.*
-https://www.newlittlelife.com/2016/03/12/diy-birth-ball-cover/
+  https://www.newlittlelife.com/2016/03/12/diy-birth-ball-cover/
 
 ### 3.Failylight ballon ###
 ![Image](failylight.png)
-This project is related to mine because lighten up the ball is another feature. This product is a general consumer product and, pretty popular.
+  This project is related to mine because lighten up the ball is another feature. This product is a general consumer product and, pretty popular.
 
 ### 4.LED bouncie  ###
 *https://www.instructables.com/id/LED-Bouncie/*
 ![Image](bouncie.png)
-This project is related to mine because, if the light turns on accordant with the ball's movement is perfect.
+  This project is related to mine because, if the light turns on accordant with the ball's movement is perfect.
 
 ### 5.Shader-based Physical Modelling Synthesis ###
  *http://www.nime.org/proceedings/2017/nime2017_paper0028.pdf*
  ![Image](pms.png)
- This project is very similar to my conceptual design1. However, it is very structured and developed with modern technologies.
+   This project is very similar to my conceptual design1. However, it is very structured and developed with modern technologies.
  
  ### 6.Device orchestra ###
  *https://youtu.be/8jDROj236R4*
  ![Image](device orchestra1.png)
  ![Image](device orchestra2.png)
- This project achieved fun of interactive technologies and music. It is amusing to watch.
+   This project achieved fun of interactive technologies and music. It is amusing to watch.
 
 
 ## Conceptual progress ##
