@@ -96,7 +96,7 @@ The music is made by mainly using the setting of the accelerator sensor of Micro
 
 ## Physical experimentation documentation ##
 
-### Trial one ###
+* Trial one 
 ![Image](trial1.png)
 trial1.MOV
 
@@ -148,6 +148,17 @@ I saw the cover with sewing machine.
 ![Image](trial4_4.png) 
 ![Image](trial4_5.png) 
 
+Then, in order to try the LED would work with or not, I tested with fairly light.
+It worked well with the direct connection with aligator pin with microbit.
+![Image](fl1.png) 
+![Image](fl2.png) 
+![Image](fl3.png) 
+However, it did not work with terminal block.. So, for this stage I needed to give up. 
+![Image](fl4.png) 
+![Image](fl5.png) 
+but I made sure the light could fit into the ball. There is a possibility to put the NEOPIXEL in the ball.
+![Image](fl6.png) 
+![Image](fl7.png) 
 Coding
 ![Image](buttonA.png) 
 Being struggle with making the switch on/off with code, I asked advice during the class time.  Unfortunately, it did not work. For the next stage, I should look at the solution. 
@@ -156,13 +167,10 @@ Then the following is the final code for this prototype.
 ![Image](final1.png) 
 ![Image](final2.png) 
 
-
-
-
-
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
 ## Next steps ##
+
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
 
