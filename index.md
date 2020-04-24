@@ -26,7 +26,7 @@ ex;
 
 ### 2.Gym ball cover sewing project ###
 ![Image](ballcover1.png)
-![Image](ballcover2.png)
+![Image](ballcover2.png)</br>
 *This project is related to mine because this gave me the idea of fabrication. Initially, it seemed impossible to attach the microbit device on the gym ball. After this finding, it is worth giving it a try with a project.*
   https://www.newlittlelife.com/2016/03/12/diy-birth-ball-cover/
 
