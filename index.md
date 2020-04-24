@@ -31,23 +31,23 @@ ex;
   https://www.newlittlelife.com/2016/03/12/diy-birth-ball-cover/
 
 ### 3.Failylight ballon ###
-![Image](failylight.png)
+![Image](failylight.png)</br>
   This project is related to mine because lighten up the ball is another feature. This product is a general consumer product and, pretty popular.
 
 ### 4.LED bouncie  ###
-*https://www.instructables.com/id/LED-Bouncie/*
-![Image](bouncie.png)
+*https://www.instructables.com/id/LED-Bouncie/*</br>
+![Image](bouncie.png)</br>
   This project is related to mine because, if the light turns on accordant with the ball's movement is perfect.
 
 ### 5.Shader-based Physical Modelling Synthesis ###
- *http://www.nime.org/proceedings/2017/nime2017_paper0028.pdf*
- ![Image](pms.png)
+ *http://www.nime.org/proceedings/2017/nime2017_paper0028.pdf*</br>
+ ![Image](pms.png)</br>
    This project is very similar to my conceptual design1. However, it is very structured and developed with modern technologies.
  
  ### 6.Device orchestra ###
  *https://youtu.be/8jDROj236R4*
  ![Image](device orchestra1.png)
- ![Image](device orchestra2.png)
+ ![Image](device orchestra2.png)</br>
    This project achieved fun of interactive technologies and music. It is amusing to watch.
 
 
