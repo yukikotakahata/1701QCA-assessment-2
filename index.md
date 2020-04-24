@@ -5,7 +5,7 @@
 
 ## Related projects ##
 
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
+
 
 ### 1.Bop it ###
 *https://youtu.be/ayBmsWKqdnc*
@@ -15,20 +15,20 @@
 ![Image](bopit3.png)
 ![Image](bopit2.png)
 
-This project is related to mine because my project is "musical instrument which react to physical movement". "Bop it" is a classic interactive party toy. All new Bop It calls out commands, the player reacts fast.  It is a game in which sound and body movements linked closely. 
+*This project is related to mine because my project is "musical instrument which react to physical movement". "Bop it" is a classic interactive party toy. All new Bop It calls out commands, the player reacts fast.  It is a game in which sound and body movements linked closely. 
 ex;
 "Bop It!" becomes the sound of a bass drum.
 "Spin It!" becomes the sound of a wobbling wheel.
 "Flick It!" becomes a "Boing!" sound.
 "Pull It!" becomes the sound of a slide-whistle.
 "Twist It!" becomes a cranking sound.
-"Shout It!" becomes a DJ's scratching sound.
+"Shout It!" becomes a DJ's scratching sound.*
 
 ### 2.Gym ball cover sewing project ###
 ![Image](ballcover1.png)
 ![Image](ballcover2.png)
-This project is related to mine because this gave me the idea of fabrication. Initially, it seemed impossible to attach the microbit device on the gym ball. After this finding, it is worth giving it a try with a project.
-*https://www.newlittlelife.com/2016/03/12/diy-birth-ball-cover/*
+*This project is related to mine because this gave me the idea of fabrication. Initially, it seemed impossible to attach the microbit device on the gym ball. After this finding, it is worth giving it a try with a project.*
+https://www.newlittlelife.com/2016/03/12/diy-birth-ball-cover/
 
 ### 3.Failylight ballon ###
 ![Image](failylight.png)
