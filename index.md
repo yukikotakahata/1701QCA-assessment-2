@@ -57,7 +57,7 @@ This project is related to mine because lighten up the ball is another feature. 
 
 # Conceptual progress #
 
-### Design intent ###
+## Design intent ##
 The gym ball makes your daily exercise more fun!
 </br>
 ## Design concept 1 /Experiment with the relations of SOUNDS & MATERIAL ##
@@ -71,19 +71,19 @@ When you touch the sand> it sounds you mix the gravels. etc.. </br>
  ![Image](p1.png)
 </br>
 
-### Design concept 2 /Musical Gym ball ###</br>
+## Design concept 2 /Musical Gym ball ##
 
 Gym ball plays music and rhythm which synthesize with your movement!</br>
 
  ![Image](p2.png)</br>
  
- ### Design concept 3/ Chasing car ###</br>
+ ## Design concept 3/ Chasing car ##
 people wearing the microbit on his foot. The microbit car is chasing him, and the music changes in dramatic way depend on the distance between them.</br>
 
  ![Image](p3.png)</br>
-</br></br>
+</br>
 
-### Final design concept/ Playng a sound Gym ball ###</br>
+### Final design concept/ Playng a sound Gym ball ###
 
 I wonder if everybody has a gym-ball that he bought for exercise and was left alone. As a "sometimes used chair" in one corner of the room...
 This is a tool that transforms such a gym-ball into a ball for fun. This ball plays a music scale, according to the movement of the body.
