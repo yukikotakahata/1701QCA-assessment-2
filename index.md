@@ -27,7 +27,7 @@ ex;
 ### 2.Gym ball cover sewing project ###
 ![Image](ballcover1.png)
 ![Image](ballcover2.png)</br>
-*This project is related to mine because this gave me the idea of fabrication. Initially, it seemed impossible to attach the microbit device on the gym ball. After this finding, it is worth giving it a try with a project.*
+*This project is related to mine because this gave me the idea of fabrication. Initially, it seemed impossible to attach the microbit device on the gym ball. After this finding, it became  worth giving it a try with a project.*
   https://www.newlittlelife.com/2016/03/12/diy-birth-ball-cover/
 
 ### 3.Failylight ballon ###
@@ -65,19 +65,19 @@ Embark the sense of wonder which we normally don't care.
 When you touch gravel> it sounds you knock the  wood.
 When you touch the sand> it sounds you mix the gravels. etc.. 
 
- ![Image](concept1.png)
+ ![Image](p1.png)
 
 
 ### Design concept 2 /Musical Gym ball ###
 
 Gym ball plays music and rhythm which synthesize with your movement!
 
- ![Image](concept2.png)
+ ![Image](p2.png)
  
  ### Design concept 3/ Chasing car ###
 people wearing the microbit on his foot. The microbit car is chasing him, and the music changes in dramatic way depend on the distance between them.
 
- ![Image](concept3.png)
+ ![Image](p3.png)
 
 ### Final design concept/ Playng a sound Gym ball ###
 
@@ -93,40 +93,40 @@ The music is made by mainly using the setting of the accelerator sensor of Micro
 
 ## Physical experimentation documentation ##
 
-* Trial one 
+### Trial one ###
 ![Image](trial1.png)
-trial1.MOV
+https://youtu.be/eL1vTo0R4Rk
 
 I tried connecting four speakers, unfortunately ,the overall volume did not change—incorporation with an amplifier is essential.
-I research how to attach the amplifier to the microbit. It seemed to do with some soldering work.  It was not realistic for me. So I decided to go with just one stereo speaker.
+I research how to attach the amplifier to the microbit. It seemed to do with some soldering work.  It was not realistic for me. So I decided to go with just one stereo speaker.</br>
 
-And, lots of examination about coding here. I caliculated the amount range to set the "pitch".
+And, lots of examination about coding here. I caliculated the amount range to set the "pitch".</br>
 ![Image](noteflow1.png)![Image](noteflow2.png)
-![Image](if1.png)![Image](if2.png)
-I coded with "if true" first, but it didn't work well. I was struggling with how to set the range of the amount acceleration. Depend on the setting, microbit picked just one range ..(played just one key..)
+![Image](if1.png)![Image](if2.png)</br>
+I coded with "if true" first, but it didn't work well. I was struggling with how to set the range of the amount acceleration. Depend on the setting, microbit picked just one range ..(played just one key..)</br>
 
 Finally, I have found the codes; "constrain between A and B" and "while do." These worked quite well. Then I played around with the length of the beat. 
-Since It cannot stop the sound once it played, it will pick up the "new/next"data at the point where the sound was cut off. So beat length should be the key to the music.
-
+Since It cannot stop the sound once it played, it will pick up the "new/next"data at the point where the sound was cut off. So beat length should be the key to the music.</br>
 ![Image](code1_2.png)![Image](code1_3".png)
-
+</br>
 ### Trial 2 ###
 ![Image](trial2.png)![Image](trial2_2.png)![Image](trial2_3.png)![Image](terminalboard.png)
-trial2.MOV
-trial2_2.MOV
+https://youtu.be/yqaLaYlwkn0
+https://youtu.be/TvU-jmjDYY4
 
 This stage was the learning about "the Kitronik Terminal Block Breakout" This is because that,  it must withstand to big and constant movement.All parts of the electrical circuit should be firmly connected.  Aligator clip might not work.. 
-I confirm the speaker and battery connection with terminal block. Then I put this element in the roughly-made cardboard box. I came up with the idea of putting this container in a cloth bag. It worked!
+I confirm the speaker and battery connection with terminal block. Then I put this element in the roughly-made cardboard box. I came up with the idea of putting this container in a cloth bag. It worked!</br>
+![Image](code_y.png)</br>
+I tried to set up "acceralation y " as BPM.</br>
 
-I tried to set up "acceralation y " as BPM. 
-![Image](code_y.png)
 
 ### Trial 3 ###
 ![Image](trial3_7.png)
 ![Image](trial3_1.png) 
 ![Image](notedesign1.png)
-![Image](notedesign2.png)
-This stage is trial for the fabrication. I designed the container which could hold the parts( terminal board, battery, microbit, stereo speakers, and cables) firmly in the box. These were set up nicely in the box( bit busy though), And I  covered up the ball with my old Tshirt, squeezed the container between the Tshirt and the gym ball. ! it worked! However, the problem was that sound was just too small.. it was not fun at all!
+![Image](notedesign2.png)</br>
+This stage is trial for the fabrication. I designed the container which could hold the parts( terminal board, battery, microbit, stereo speakers, and cables) firmly in the box. These were set up nicely in the box( bit busy though), And I  covered up the ball with my old Tshirt, squeezed the container between the Tshirt and the gym ball. ! it worked! However, the problem was that sound was just too small.. it was not fun at all!</br>
+https://youtu.be/lQGHr2OlBq8
 ![Image](trial3_4.png) 
 ![Image](trial3_5.png) 
 ![Image](trial3_6.png) 
@@ -135,32 +135,32 @@ This stage is trial for the fabrication. I designed the container which could ho
 
 ### Trial 4 ###
 
-Sewing
+*Sewing
 This stage is the brushing up the fablication and coding. 
 
-I saw the cover with sewing machine. 
+I saw the cover with sewing machine.</br>
 ![Image](trial4_1.png) 
 ![Image](trial4_2.png) 
 ![Image](trial4_3.png) 
 ![Image](trial4_4.png) 
-![Image](trial4_5.png) 
+![Image](trial4_5.png) </br>
 
 Then, in order to try the LED would work with or not, I tested with fairly light.
-It worked well with the direct connection with aligator pin with microbit.
+It worked well with the direct connection with aligator pin with microbit.</br>
 ![Image](fl1.png) 
 ![Image](fl2.png) 
-![Image](fl3.png) 
-However, it did not work with terminal block.. So, for this stage I needed to give up. 
+![Image](fl3.png) </br>
+However, it did not work with terminal block.. So, for this stage I needed to give up. </br>
 ![Image](fl4.png) 
-![Image](fl5.png) 
-but I made sure the light could fit into the ball. There is a possibility to put the NEOPIXEL in the ball.
+![Image](fl5.png) </br>
+but I made sure the light could fit into the ball. There is a possibility to put the NEOPIXEL in the ball.</br>
 ![Image](fl6.png) 
 ![Image](fl7.png) 
-Coding
+*Coding</br>
 ![Image](buttonA.png) 
-Being struggle with making the switch on/off with code, I asked advice during the class time.  Unfortunately, it did not work. For the next stage, I should look at the solution. 
+Being struggle with making the switch on/off with code, I asked advice during the class time.  Unfortunately, it did not work. For the next stage, I should look at the solution. </br>
 
-Then the following is the final code for this prototype. 
+Then the following is the final code for this prototype. </br>
 ![Image](final1.png) 
 ![Image](final2.png) 
 
