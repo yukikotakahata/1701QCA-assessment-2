@@ -194,9 +194,11 @@ I did four trials so far. Throughout the trials, I always find the improvement p
 
 ## Next steps ##
 
-1.Explore and Reserch about the how to make "bouncy ball"
-2.Explore and Reserch about "Neopixel"
-3.Establish the switch sytem
-4.Make Microbit container smaller , thinner and lighter. My goal is the container could tack in the pocket of the cover.
-5.Get the unique material for the cover.
-6. Estblish more loud soundsystem with "MONK MAKES Speaker"
+1.Explore and Reserch about the how to make "bouncy ball"</br>
+2.Explore and Reserch about "Neopixel"</br>
+3.Establish the switch sytem</br>
+4.Make Microbit container smaller , thinner and lighter. My goal is the container could tack in the pocket of the cover.</br>
+5.Get the unique material for the cover.</br>
+6. Estblish more loud soundsystem with "MONK MAKES Speaker"</br>
+7. Make sound more intersting
+8.Explore the touch censor
