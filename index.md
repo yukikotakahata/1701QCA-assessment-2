@@ -83,7 +83,7 @@ people wearing the microbit on his foot. The microbit car is chasing him, and th
  ![Image](p3_.png)</br>
 </br>
 
-### Final design concept/ Playng a sound Gym ball ###
+# Final design concept/ Playng a sound Gym ball #
 
 I wonder if everybody has a gym-ball that he bought for exercise and was left alone. As a "sometimes used chair" in one corner of the room...
 This is a tool that transforms such a gym-ball into a ball for fun. This ball plays a music scale, according to the movement of the body.
