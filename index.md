@@ -149,8 +149,15 @@ I saw the cover with sewing machine.
 ![Image](trial4_5.png) 
 
 Coding
+![Image](buttonA.png) 
+Being struggle with making the switch on/off with code, I asked advice during the class time.  Unfortunately, it did not work. For the next stage, I should look at the solution. 
 
-I 
+Then the following is the final code for this prototype. 
+![Image](final1.png) 
+![Image](final2.png) 
+
+
+
 
 
 ## Design process discussion ##
@@ -158,3 +165,4 @@ I
 
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+
