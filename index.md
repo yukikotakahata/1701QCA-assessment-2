@@ -80,7 +80,7 @@ Gym ball plays music and rhythm which synthesize with your movement!</br>
  ## Design concept 3/ Chasing car ##
 people wearing the microbit on his foot. The microbit car is chasing him, and the music changes in dramatic way depend on the distance between them.</br>
 
- ![Image](p3.png)</br>
+ ![Image](p3_.png)</br>
 </br>
 
 ### Final design concept/ Playng a sound Gym ball ###
@@ -146,9 +146,10 @@ And I  covered up the ball with my old Tshirt, squeezed the container between th
 
 ### Trial 4 ###
 
-*Sewing
-This stage is the brushing up the fablication and coding. 
+[Trial 4 video] https://youtu.be/JYrxbIS80yw
 
+
+This stage is the brushing up the fablication and coding. 
 I saw the cover with sewing machine.
 </br>
 ![Image](trial4_1.png) 
@@ -168,9 +169,10 @@ However, it did not work with terminal block.. So, for this stage I needed to gi
 but I made sure the light could fit into the ball. There is a possibility to put the NEOPIXEL in the ball.</br>
 ![Image](fl6.png) 
 ![Image](fl7.png) 
-*Coding</br>
-![Image](buttonA.png) 
+Coding</br>
+
 Being struggle with making the switch on/off with code, I asked advice during the class time.  Unfortunately, it did not work. For the next stage, I should look at the solution. </br>
+![Image](buttonA.png) 
 
 Then the following is the final code for this prototype. </br>
 ![Image](final1.png) 
