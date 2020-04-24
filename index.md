@@ -1,20 +1,18 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
 
-# Playng a sound Gym ball  #
+**# Playng a sound Gym ball  #**
 
 ## Related projects ##
 
 
 
 ### 1.Bop it ###
-*https://youtu.be/ayBmsWKqdnc*
-
-
+</br>
 ![Image](bopit1.png)
 ![Image](bopit3.png)
 ![Image](bopit2.png)
-
+[How to play Bop it] *https://youtu.be/ayBmsWKqdnc*
 *This project is related to mine because my project is "musical instrument which react to physical movement". "Bop it" is a classic interactive party toy. All new Bop It calls out commands, the player reacts fast.  It is a game in which sound and body movements linked closely. 
 ex;
 "Bop It!" becomes the sound of a bass drum.
@@ -23,79 +21,86 @@ ex;
 "Pull It!" becomes the sound of a slide-whistle.
 "Twist It!" becomes a cranking sound.
 "Shout It!" becomes a DJ's scratching sound.*
-
+</br>
 ### 2.Gym ball cover sewing project ###
+</br>
 ![Image](ballcover1.png)
 ![Image](ballcover2.png)</br>
 *This project is related to mine because this gave me the idea of fabrication. Initially, it seemed impossible to attach the microbit device on the gym ball. After this finding, it became  worth giving it a try with a project.*
-  https://www.newlittlelife.com/2016/03/12/diy-birth-ball-cover/
-
+[How to make yoga ball cover]  https://www.newlittlelife.com/2016/03/12/diy-birth-ball-cover/
+</br>
 ### 3.Failylight ballon ###
+</br>
 ![Image](failylight.png)</br>
   This project is related to mine because lighten up the ball is another feature. This product is a general consumer product and, pretty popular.
-
+</br>
 ### 4.LED bouncie  ###
-*https://www.instructables.com/id/LED-Bouncie/*</br>
+</br>
 ![Image](bouncie.png)</br>
-  This project is related to mine because, if the light turns on accordant with the ball's movement is perfect.
-
+  This project is related to mine because, if the light turns on accordant with the ball's movement is perfect.</br>
+[how to make bouncy ball] *https://www.instructables.com/id/LED-Bouncie/*</br>
+</br>
 ### 5.Shader-based Physical Modelling Synthesis ###
- *http://www.nime.org/proceedings/2017/nime2017_paper0028.pdf*</br>
+</br>
+ [link to the artickle]*http://www.nime.org/proceedings/2017/nime2017_paper0028.pdf*</br>
  ![Image](pms.png)</br>
    This project is very similar to my conceptual design1. However, it is very structured and developed with modern technologies.
- 
- ### 6.Device orchestra ###
- *https://youtu.be/8jDROj236R4*
- ![Image](device orchestra1.png)
- ![Image](device orchestra2.png)</br>
+</br> 
+### 6.Device orchestra ###
+</br> 
+ [divice orchestra]*https://youtu.be/8jDROj236R4*</br>
+ ![Image](do1.png)
+ ![Image](do2.png)</br>
    This project achieved fun of interactive technologies and music. It is amusing to watch.
 
-
+</br>
 ## Conceptual progress ##
-
+</br>
 ### Design intent ###
 *Include your design intent here. It should be about a 10 word phrase/sentence.*
-
-
+</br>
 ### Design concept 1 /Experiment with the relations of SOUNDS & MATERIAL ###
-
+</br>
 Experiment on how humans react when abnormally occurs in the relations between senses of touching , hearing and sight.
-Embark the sense of wonder which we normally don't care.
+Embark the sense of wonder which we normally don't care.</br>
 
 When you touch gravel> it sounds you knock the  wood.
-When you touch the sand> it sounds you mix the gravels. etc.. 
+When you touch the sand> it sounds you mix the gravels. etc.. </br>
 
  ![Image](p1.png)
+</br>
 
+### Design concept 2 /Musical Gym ball ###</br>
 
-### Design concept 2 /Musical Gym ball ###
+Gym ball plays music and rhythm which synthesize with your movement!</br>
 
-Gym ball plays music and rhythm which synthesize with your movement!
-
- ![Image](p2.png)
+ ![Image](p2.png)</br>
  
- ### Design concept 3/ Chasing car ###
-people wearing the microbit on his foot. The microbit car is chasing him, and the music changes in dramatic way depend on the distance between them.
+ ### Design concept 3/ Chasing car ###</br>
+people wearing the microbit on his foot. The microbit car is chasing him, and the music changes in dramatic way depend on the distance between them.</br>
 
- ![Image](p3.png)
-
-### Final design concept/ Playng a sound Gym ball ###
+ ![Image](p3.png)</br>
+</br></br>
+### Final design concept/ Playng a sound Gym ball ###</br></br>
 
 I wonder if everybody has a gym-ball that he bought for exercise and was left alone. As a "sometimes used chair" in one corner of the room...
 This is a tool that transforms such a gym-ball into a ball for fun. This ball plays a music scale, according to the movement of the body.
-In order not to limit the movement itself, the aim was to make the loading as simple as possible. Moreover, I would like to make full use of the aesthetic humor of the large gym ball itself—the material of the cover something special that stimulates the texture.
-
+In order not to limit the movement itself, the aim was to make the loading as simple as possible. Moreover, I would like to make full use of the aesthetic humor of the large gym ball itself—the material of the cover something special that stimulates the texture.</br>
+</br>
 ### Interaction flowchart ###
-The music is made by mainly using the setting of the accelerator sensor of Microbit. Acceleration x (horizontal movement) senses the scale, acceleration y (vertical movement) senses BPM, that is, the speed of sound.
+The music is made by mainly using the setting of the accelerator sensor of Microbit. Acceleration x (horizontal movement) senses the scale, acceleration y (vertical movement) senses BPM, that is, the speed of sound.</br>
 
-![Image](flow.png)![Image](pitch.png)![Image](noteconcept2.png)![Image](noteconcept1.png)
+![Image](flow.png)</br> 
+![Image](pitch.png)</br>
+![Image](noteconcept2.png)</br>
+![Image](noteconcept1.png)</br>
 
 
 ## Physical experimentation documentation ##
 
 ### Trial one ###
 ![Image](trial1.png)
-https://youtu.be/eL1vTo0R4Rk
+[Trial1 movie]*https://youtu.be/eL1vTo0R4Rk*
 
 I tried connecting four speakers, unfortunately ,the overall volume did not change—incorporation with an amplifier is essential.
 I research how to attach the amplifier to the microbit. It seemed to do with some soldering work.  It was not realistic for me. So I decided to go with just one stereo speaker.</br>
@@ -170,4 +175,7 @@ Then the following is the final code for this prototype. </br>
 ## Next steps ##
 
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
-
+-Explore and Reserch about the how to make "bouncy ball"
+-Explore and Reserch about "Neopixel"
+-Establish the switch"
+-Make Microbit container smaller , thinner and lighter. My goal is the container could tack in the pocket of the cover.
