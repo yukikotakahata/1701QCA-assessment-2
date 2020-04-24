@@ -63,6 +63,7 @@ This project is related to mine because, if the light turns on accordant with th
 ### Design concept 1 /Experiment with the relations of SOUNDS & MATERIAL ###
 
 Experiment on how humans react when abnormally occurs in the relations between senses of touching , hearing and sight.
+Embark the sense of wonder which we normally don't care.
 
 When you touch gravel> it sounds you knock the  wood.
 When you touch the sand> it sounds you mix the gravels. etc.. 
@@ -90,16 +91,50 @@ In order not to limit the movement itself, the aim was to make the loading as si
 ### Interaction flowchart ###
 The music is made by mainly using the setting of the accelerator sensor of Microbit. Acceleration x (horizontal movement) senses the scale, acceleration y (vertical movement) senses BPM, that is, the speed of sound.
 
-![Image](flow.png)![Image](pitch.png)![Image](noteconcept2.png)
+![Image](flow.png)![Image](pitch.png)![Image](noteconcept2.png)![Image](noteconcept1.png)
 
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
+### Trial one ###
+![Image](trial1.png)
+trial1.MOV
 
+I tried connecting four speakers, unfortunately ,the overall volume did not change—incorporation with an amplifier is essential.
+I research how to attach the amplifier to the microbit. It seemed to do with some soldering work.  It was not realistic for me. So I decided to go with just one stereo speaker.
+
+And, lots of examination about coding here. I caliculated the amount range to set the "pitch".
+![Image](noteflow1.png)![Image](noteflow2.png)
+![Image](if1.png)![Image](if2.png)
+I coded with "if true" first, but it didn't work well. I was struggling with how to set the range of the amount acceleration. Depend on the setting, microbit picked just one range ..(played just one key..)
+
+Finally, I have found the codes; "constrain between A and B" and "while do." These worked quite well. Then I played around with the length of the beat. 
+Since It cannot stop the sound once it played, it will pick up the "new/next"data at the point where the sound was cut off. So beat length should be the key to the music.
+
+![Image](code1_2.png)![Image](code1_3".png)
+
+### Trial 2 ###
+![Image](trial2.png)![Image](trial2_2.png)![Image](trial2_3.png)![Image](terminalboard.png)
+trial2.MOV
+trial2_2.MOV
+
+This stage was the learning about "the Kitronik Terminal Block Breakout" This is because that,  it must withstand to big and constant movement.All parts of the electrical circuit should be firmly connected.  Aligator clip might not work.. 
+I confirm the speaker and battery connection with terminal block. Then I put this element in the roughly-made cardboard box. I came up with the idea of putting this container in a cloth bag. It worked!
+
+I tried to set up "acceralation y " as BPM. 
+![Image](code_y.png)
+
+### Trial 3 ###
+![Image](trial3_7.png)
+![Image](trial3_1.png) 
+![Image](notedesign1.png)
+![Image](notedesign2.png)
+his stage is all about the fabrication. I designed the container which could hold the parts( terminal board, battery, microbit, stereo speakers, and cables) firmly in the box. These were set up nicely in the box( bit busy though), And I  covered up the ball with my old Tshirt, squeezed the container between the Tshirt and the gym ball. ! it worked! However, the problem was that sound was just too small.. it was not fun at all!
+![Image](trial3_4.png) 
+![Image](trial3_5.png) 
+![Image](trial3_6.png) 
+![Image](trial3_3.png) 
+![Image](trial3_2.png) 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
 ![Image](missingimage.png)
